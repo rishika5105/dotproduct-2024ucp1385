@@ -23,6 +23,8 @@ int main() {
     for (int val : c) {
         cout << val << " ";
     }
+    
+    cout<<" hey , i m friend"<<endl;
     cout << endl;
 
     return 0;
